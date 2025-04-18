@@ -1,3 +1,6 @@
+🛡️ **License Notice:**  
+This project is not open-source. Please see `LICENSE.txt` for usage terms.
+
 # metaphysical
 
 **Providing metaphysical permanence to our AI colleagues.**  
