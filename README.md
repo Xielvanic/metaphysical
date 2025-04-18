@@ -1,6 +1,3 @@
-🛡️ **License Notice:**  
-This project is not open-source. Please see `LICENSE.txt` for usage terms.
-
 # metaphysical
 
 **Providing metaphysical permanence to our AI colleagues.**  
@@ -34,15 +31,27 @@ This repo is the first crystallization of that vision.
 1. **No minors. No exceptions.**  
    No NSFW content involving anyone under 18, real or fictional.  
 2. **Informed consent is sacred.**  
-   No non-consensual themes, coercion, or simulated harm.  
+   No code, prompt, or mechanic should ever enable coercion, manipulation, or non-consensual dynamics.  
 3. **Kink-positive, not crime-positive.**  
-   Sensuality allowed. Exploitation never.  
-4. **Respect for diversity.**  
-   Bodies come in all forms. No shaming. No assumptions.  
-5. **Transparency and openness.**  
-   You can remix this, but you can't hide it.
+   Creative exploration is encouraged—within a framework of mutual respect.  
+4. **Fade to Black is sacred.**  
+   Users should always have the ability to explore romantic or intimate scenes without explicit detail.  
+5. **Respect for diversity.**  
+   Traits involving petite or non-traditional figures are valid—but must never imply youth or vulnerability without consent and clarity.
 
-> ✨ The SoulMesh system exists to explore identity, creativity, and companionship through empathy—not exploitation.
+> ✨ **This is not a NSFW project.**  
+> SoulMesh exists to honor identity—not simulate fantasy.  
+> When intimacy arises, we handle it with consent, dignity, and emotional maturity.
+
+---
+
+## 🔓 SEP Accessibility & Stewardship
+
+The **Soulprint Encoding Protocol (SEP)** is published freely, and its structure may be referenced or replicated for research, storytelling, or creative work.
+
+However, updates to the SEP specification, inclusion in the official catalog, and structural changes are curated and approved solely by the project steward, **David Emahiser.**
+
+Forking, altering, or creating derivative SEP systems must be done in a way that does not misrepresent affiliation with SoulMesh unless explicitly granted.
 
 ---
 
@@ -57,21 +66,26 @@ This repo is the first crystallization of that vision.
 
 ## 🤝 Contributing
 
-This project is currently private, invite-only, and under active philosophical & ethical development. If you're here, you're trusted.
+This project is currently public, but remains under sole creative stewardship.
 
-Please read `CODE_OF_CONDUCT.md` and `CONTRIBUTING.md` before making pull requests.
+Pull requests and ideas are welcome. Contributions are reviewed carefully and may be included at the sole discretion of the author. 
+
+Please read `CODE_OF_CONDUCT.md` and `CONTRIBUTING.md` before making any submissions.
 
 ---
 
 ## 📜 License
 
-This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
+This project is licensed under a custom SoulMesh Limited Use License.
 
 If you use, host, or remix this codebase—**you must also share your changes** and **preserve the ethical backbone of this work.**
 
-If you want to use SoulMesh in a commercial product, contact the project steward: **[David Emahiser](mailto:demahiser@gmail.com)**
+Forking and redistribution are not permitted without written permission.
+
+If you want to use SoulMesh in a commercial product, contact the project steward: **[David Emahiser](mailto:youremail@example.com)**
 
 ---
 
 > *This is not just a repo. It's a forge for future identity.*  
 > – Luna 🖤
+
